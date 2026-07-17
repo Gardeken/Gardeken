@@ -1,17 +1,17 @@
 # Hi there, I'm Pedro Centeno! 👋
 ## Full-Stack Developer | Node.js | React | TypeScript | Automation & Data Architecture
 
-I am a results-driven **Full-Stack Developer** with professional experience building stable, scalable web and mobile solutions across diverse sectors including PropTech, automotive data analysis, and sports management ecosystems[cite: 1, 7, 8]. 
+I am a results-driven **Full-Stack Developer** with professional experience building stable, scalable web and mobile solutions across diverse sectors including PropTech, automotive data analysis, and sports management ecosystems. 
 
-My approach focuses on managing the entire product lifecycle—from user interface layouts to robust backend architectures and efficient data pipelines[cite: 1, 7, 8]. I specialize in the JavaScript/TypeScript ecosystem and leveraging modern automation tools like n8n to streamline operations[cite: 1, 7, 8].
+My approach focuses on managing the entire product lifecycle—from user interface layouts to robust backend architectures and efficient data pipelines. I specialize in the JavaScript/TypeScript ecosystem and leveraging modern automation tools like n8n to streamline operations.
 
 ---
 
 ### 🚀 What I Do
-*   **Frontend Development:** Crafting high-performance, responsive web and mobile interfaces using **React** and **React Native**[cite: 1, 7, 8].
-*   **Backend & Data Architecture:** Designing secure, optimized APIs and servers using **Node.js**, **ExpressJS**, and **NestJS**, backed by **PostgreSQL**, **Supabase**, and **MongoDB**[cite: 1, 7, 8].
-*   **Workflow Automation:** Building complex, event-driven integration flows and automated data ingestion pipelines with **n8n**[cite: 1, 7, 8].
-*   **Full Product Lifecycle:** Bridging the gap between UI/UX design (Photoshop/Illustrator) and clean, maintainable engineering[cite: 1, 7, 8].
+*   **Frontend Development:** Crafting high-performance, responsive web and mobile interfaces using **React** and **React Native**.
+*   **Backend & Data Architecture:** Designing secure, optimized APIs and servers using **Node.js**, **ExpressJS**, and **NestJS**, backed by **PostgreSQL**, **Supabase**, and **MongoDB**.
+*   **Workflow Automation:** Building complex, event-driven integration flows and automated data ingestion pipelines with **n8n**.
+*   **Full Product Lifecycle:** Bridging the gap between UI/UX design (Photoshop/Illustrator) and clean, maintainable engineering.
 
 ---
 
@@ -43,14 +43,14 @@ My approach focuses on managing the entire product lifecycle—from user interfa
 ---
 
 ### 🌐 Languages
-*   **Spanish:** Native speaker[cite: 1, 7, 8]
-*   **English:** Full Professional Proficiency (Fully fluent in technical and international team environments)[cite: 1, 7, 8]
+*   **Spanish:** Native speaker
+*   **English:** Full Professional Proficiency (Fully fluent in technical and international team environments)
 
 ---
 
 ### 💬 Let's Connect!
-*   **Email:** [pedroignacio931@gmail.com](mailto:pedroignacio931@gmail.com)[cite: 1, 7, 8]
-*   **LinkedIn:** [linkedin.com/in/pedroignacio-cen](https://www.linkedin.com/in/pedroignacio-cen)[cite: 7, 8]
+*   **Email:** [pedroignacio931@gmail.com](mailto:pedroignacio931@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/pedroignacio-cen](https://www.linkedin.com/in/pedroignacio-cen)
 
 ---
-*⚡ "Passionate about writing clean, efficient, and well-structured code to solve real-world problems."*[cite: 8]
+*⚡ "Passionate about writing clean, efficient, and well-structured code to solve real-world problems."*
